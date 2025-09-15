@@ -19,8 +19,10 @@ My daily practice problems in C programming.
 - Built in function and by using condition we can solve it easily  
 - [2.Reverse in array.c](./2.Reverse%20in%20array.c)
 - Here is all about logic. Just reverse the retrive process and then you'll get it easily.  
-- [3.Sum and average.c](./3.Sum%20and%20average.c)  
-- [4.Count even or odd.c](./4.Count%20even%20or%20odd.c)  
+- [3.Sum and average.c](./3.Sum%20and%20average.c)
+- Basic arithmatic operations  
+- [4.Count even or odd.c](./4.Count%20even%20or%20odd.c)
+- Need basic logic  
 - [5. Linear search.c](./5.%20Linear%20search.c)  
 - [6.Rotate array to the right.c](./6.Rotate%20array%20to%20the%20right.c)  
 - [7.Insert an Element at a Specific Position.c](./7.Insert%20an%20Element%20at%20a%20Specific%20Position.c)  
@@ -56,6 +58,7 @@ My daily practice problems in C programming.
 - [Enum](./Enum)  
 - [Function solved code](./Function%20solved%20code)  
 - [pointer solved code](./pointer%20solved%20code)  
+
 
 
 

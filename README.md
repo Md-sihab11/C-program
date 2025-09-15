@@ -57,7 +57,9 @@ My daily practice problems in C programming.
 - [week.c](./week.c)  
 - [Enum](./Enum)  
 - [Function solved code](./Function%20solved%20code)  
-- [pointer solved code](./pointer%20solved%20code)  
+- [pointer solved code](./pointer%20solved%20code)
+- Most important roles in code. It enhanced our by debugging the logic   
+
 
 
 

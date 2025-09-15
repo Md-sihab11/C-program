@@ -17,7 +17,8 @@ My daily practice problems in C programming.
 - simple and very easy syntax  
 - [1.Min and max value.c](./1.Min%20and%20max%20value.c)
 - Built in function and by using condition we can solve it easily  
-- [2.Reverse in array.c](./2.Reverse%20in%20array.c)  
+- [2.Reverse in array.c](./2.Reverse%20in%20array.c)
+- Here is all about logic. Just reverse the retrive process and then you'll get it easily.  
 - [3.Sum and average.c](./3.Sum%20and%20average.c)  
 - [4.Count even or odd.c](./4.Count%20even%20or%20odd.c)  
 - [5. Linear search.c](./5.%20Linear%20search.c)  
@@ -55,5 +56,6 @@ My daily practice problems in C programming.
 - [Enum](./Enum)  
 - [Function solved code](./Function%20solved%20code)  
 - [pointer solved code](./pointer%20solved%20code)  
+
 
 
